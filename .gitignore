@@ -1,0 +1,9 @@
+.idea
+defendit.iml
+__pycache__
+*/__pycache__
+build/
+dist/
+game.spec
+site-packages.spec
+
